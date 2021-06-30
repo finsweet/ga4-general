@@ -1,0 +1,1 @@
+gtag('config', 'MEASUREMENT_ID', {'page_title': 'Travel Destinations'});
